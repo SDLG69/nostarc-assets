@@ -1,8 +1,8 @@
 # nostarc-assets
 
-Repositorio de archivos de audio (canciones y covers) para [nostarc](https://nostarc.neocities.org), mi diario personal en Neocities.
+Repositorio de archivos de audio (canciones y covers) para [nostarc](https://nostarc.neocities.org), mi pagina en Neocities.
 
-Neocities no permite subir mp3 en su plan gratuito, así que los archivos viven aquí y se enlazan en el sitio a través de [jsDelivr](https://www.jsdelivr.com/), que sirve los archivos de este repo como si fueran un CDN.
+Neocities no permite subir mp3 en su plan gratuito, así que los archivos viven aquí y se enlazan en el sitio a través de [jsDelivr](https://www.jsdelivr.com/), que sirve los archivos de este repo como si fueran un CDN
 
 ## Cómo se enlaza un archivo
 
